@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Rachel (@jonesrachel3886)
 
-<!--
-**jonesrachel3886/jonesrachel3886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in London. Currently building distributed backend services and high-throughput APIs at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Writing microservices in Go and Python (FastAPI)
+- Optimizing PostgreSQL queries and Redis caching layers
+- Learning more about distributed systems and raft consensus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- **Languages:** Go, Python, SQL, Bash
+- **Backend & Data:** FastAPI, PostgreSQL, Redis, SQLAlchemy
+- **DevOps:** Docker, GitHub Actions, Linux
+
+#### Contact
+- Email: jonesrachel3886@gmail.com
+- LinkedIn: [Rachel Jones](https://linkedin.com/in/rachel-jones-uk)
